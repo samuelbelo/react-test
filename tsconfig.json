@@ -12,5 +12,6 @@
     {
       "path": "./tsconfig.src.json"
     }
-  ]
+  ],
+
 }
